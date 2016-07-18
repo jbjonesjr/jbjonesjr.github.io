@@ -1,5 +1,6 @@
 ---
 title: WebPage Title
+layout: default
 ---
 # This is a webpage with an h1
 
